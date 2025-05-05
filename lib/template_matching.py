@@ -161,4 +161,5 @@ def find_best_match(edges: np.ndarray, template_folder: str, template_yaml:str, 
     # get the center of the location
     loc_center = (location[0] + temp_center[0], location[1] + temp_center[1])
     tvec = get_pose_estimation(loc_center, best_translation[2])
+    tvec /= 1000 # convert to meters
     return location, np.array(tvec), np.array(best_rotation), best_image_name
