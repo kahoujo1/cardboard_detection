@@ -11,8 +11,8 @@ from lib.render import Render
 
 def main():
     render = Render()
-    z_min = 500
-    z_max = 1000
+    z_min = 600
+    z_max = 900
     z_step = 100
     angle_step = 0.1 # rad
     cad_path = "cad_files/cardboard1.dxf"
@@ -50,7 +50,7 @@ def main():
         for angle in np.arange(0, 2 * np.pi, angle_step):
             translation = [0, 0, z]
             # for the rotation, we use the angle around the z-axis
-            # if the object can be flipped, repeat the rotation for the other side (add pi to the rotation around the x-axis)
+            # if the object can be flipped, repeat the rotation for the other side (add pi to the rotation around the x)
             rotation = [0, 0, angle.item()]
             edges = render.render(cad_path, translation, rotation)
             edges = render.crop_image(edges)
