@@ -49,7 +49,9 @@ def main():
     for z in range(z_min, z_max, z_step):
         for angle in np.arange(0, 2 * np.pi, angle_step):
             translation = [0, 0, z]
-            rotation = [np.pi, 0, angle.item()]
+            # for the rotation, we use the angle around the z-axis
+            # if the object can be flipped, repeat the rotation for the other side (add pi to the rotation around the x-axis)
+            rotation = [0, 0, angle.item()]
             edges = render.render(cad_path, translation, rotation)
             edges = render.crop_image(edges)
             edges = cv2.Canny(edges, 10, 50)

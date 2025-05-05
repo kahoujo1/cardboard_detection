@@ -14,7 +14,7 @@ class Render:
         self.rvec = np.zeros((3, 1), dtype=np.float32)
         self.camera_matrix = np.array([[1, 0, 0], [0, 1, 0], [0, 0, 1]], dtype=np.float32)
         self.dist_coeffs = np.zeros((4, 1), dtype=np.float32)
-        self.image_shape = (480, 640)  # Default image shape
+        self.image_shape = (1000, 1000)  # Default image shape
 
 
     def approximate_arc(self, center, radius, start_angle_deg, end_angle_deg, segments=20):

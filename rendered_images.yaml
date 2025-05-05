@@ -1,6 +1,6 @@
 - image_path: rendered_image_0.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.0
   translation:
@@ -9,7 +9,7 @@
   - 500
 - image_path: rendered_image_1.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.1
   translation:
@@ -18,7 +18,7 @@
   - 500
 - image_path: rendered_image_2.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.2
   translation:
@@ -27,7 +27,7 @@
   - 500
 - image_path: rendered_image_3.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.30000000000000004
   translation:
@@ -36,7 +36,7 @@
   - 500
 - image_path: rendered_image_4.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.4
   translation:
@@ -45,7 +45,7 @@
   - 500
 - image_path: rendered_image_5.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.5
   translation:
@@ -54,7 +54,7 @@
   - 500
 - image_path: rendered_image_6.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.6000000000000001
   translation:
@@ -63,7 +63,7 @@
   - 500
 - image_path: rendered_image_7.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.7000000000000001
   translation:
@@ -72,7 +72,7 @@
   - 500
 - image_path: rendered_image_8.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.8
   translation:
@@ -81,7 +81,7 @@
   - 500
 - image_path: rendered_image_9.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.9
   translation:
@@ -90,7 +90,7 @@
   - 500
 - image_path: rendered_image_10.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.0
   translation:
@@ -99,7 +99,7 @@
   - 500
 - image_path: rendered_image_11.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.1
   translation:
@@ -108,7 +108,7 @@
   - 500
 - image_path: rendered_image_12.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.2000000000000002
   translation:
@@ -117,7 +117,7 @@
   - 500
 - image_path: rendered_image_13.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.3
   translation:
@@ -126,7 +126,7 @@
   - 500
 - image_path: rendered_image_14.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.4000000000000001
   translation:
@@ -135,7 +135,7 @@
   - 500
 - image_path: rendered_image_15.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.5
   translation:
@@ -144,7 +144,7 @@
   - 500
 - image_path: rendered_image_16.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.6
   translation:
@@ -153,7 +153,7 @@
   - 500
 - image_path: rendered_image_17.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.7000000000000002
   translation:
@@ -162,7 +162,7 @@
   - 500
 - image_path: rendered_image_18.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.8
   translation:
@@ -171,7 +171,7 @@
   - 500
 - image_path: rendered_image_19.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.9000000000000001
   translation:
@@ -180,7 +180,7 @@
   - 500
 - image_path: rendered_image_20.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.0
   translation:
@@ -189,7 +189,7 @@
   - 500
 - image_path: rendered_image_21.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.1
   translation:
@@ -198,7 +198,7 @@
   - 500
 - image_path: rendered_image_22.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.2
   translation:
@@ -207,7 +207,7 @@
   - 500
 - image_path: rendered_image_23.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.3000000000000003
   translation:
@@ -216,7 +216,7 @@
   - 500
 - image_path: rendered_image_24.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.4000000000000004
   translation:
@@ -225,7 +225,7 @@
   - 500
 - image_path: rendered_image_25.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.5
   translation:
@@ -234,7 +234,7 @@
   - 500
 - image_path: rendered_image_26.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.6
   translation:
@@ -243,7 +243,7 @@
   - 500
 - image_path: rendered_image_27.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.7
   translation:
@@ -252,7 +252,7 @@
   - 500
 - image_path: rendered_image_28.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.8000000000000003
   translation:
@@ -261,7 +261,7 @@
   - 500
 - image_path: rendered_image_29.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.9000000000000004
   translation:
@@ -270,7 +270,7 @@
   - 500
 - image_path: rendered_image_30.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.0
   translation:
@@ -279,7 +279,7 @@
   - 500
 - image_path: rendered_image_31.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.1
   translation:
@@ -288,7 +288,7 @@
   - 500
 - image_path: rendered_image_32.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.2
   translation:
@@ -297,7 +297,7 @@
   - 500
 - image_path: rendered_image_33.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.3000000000000003
   translation:
@@ -306,7 +306,7 @@
   - 500
 - image_path: rendered_image_34.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.4000000000000004
   translation:
@@ -315,7 +315,7 @@
   - 500
 - image_path: rendered_image_35.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.5
   translation:
@@ -324,7 +324,7 @@
   - 500
 - image_path: rendered_image_36.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.6
   translation:
@@ -333,7 +333,7 @@
   - 500
 - image_path: rendered_image_37.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.7
   translation:
@@ -342,7 +342,7 @@
   - 500
 - image_path: rendered_image_38.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.8000000000000003
   translation:
@@ -351,7 +351,7 @@
   - 500
 - image_path: rendered_image_39.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.9000000000000004
   translation:
@@ -360,7 +360,7 @@
   - 500
 - image_path: rendered_image_40.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.0
   translation:
@@ -369,7 +369,7 @@
   - 500
 - image_path: rendered_image_41.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.1000000000000005
   translation:
@@ -378,7 +378,7 @@
   - 500
 - image_path: rendered_image_42.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.2
   translation:
@@ -387,7 +387,7 @@
   - 500
 - image_path: rendered_image_43.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.3
   translation:
@@ -396,7 +396,7 @@
   - 500
 - image_path: rendered_image_44.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.4
   translation:
@@ -405,7 +405,7 @@
   - 500
 - image_path: rendered_image_45.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.5
   translation:
@@ -414,7 +414,7 @@
   - 500
 - image_path: rendered_image_46.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.6000000000000005
   translation:
@@ -423,7 +423,7 @@
   - 500
 - image_path: rendered_image_47.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.7
   translation:
@@ -432,7 +432,7 @@
   - 500
 - image_path: rendered_image_48.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.800000000000001
   translation:
@@ -441,7 +441,7 @@
   - 500
 - image_path: rendered_image_49.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.9
   translation:
@@ -450,7 +450,7 @@
   - 500
 - image_path: rendered_image_50.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.0
   translation:
@@ -459,7 +459,7 @@
   - 500
 - image_path: rendered_image_51.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.1000000000000005
   translation:
@@ -468,7 +468,7 @@
   - 500
 - image_path: rendered_image_52.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.2
   translation:
@@ -477,7 +477,7 @@
   - 500
 - image_path: rendered_image_53.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.300000000000001
   translation:
@@ -486,7 +486,7 @@
   - 500
 - image_path: rendered_image_54.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.4
   translation:
@@ -495,7 +495,7 @@
   - 500
 - image_path: rendered_image_55.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.5
   translation:
@@ -504,7 +504,7 @@
   - 500
 - image_path: rendered_image_56.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.6000000000000005
   translation:
@@ -513,7 +513,7 @@
   - 500
 - image_path: rendered_image_57.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.7
   translation:
@@ -522,7 +522,7 @@
   - 500
 - image_path: rendered_image_58.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.800000000000001
   translation:
@@ -531,7 +531,7 @@
   - 500
 - image_path: rendered_image_59.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.9
   translation:
@@ -540,7 +540,7 @@
   - 500
 - image_path: rendered_image_60.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.0
   translation:
@@ -549,7 +549,7 @@
   - 500
 - image_path: rendered_image_61.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.1000000000000005
   translation:
@@ -558,7 +558,7 @@
   - 500
 - image_path: rendered_image_62.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.2
   translation:
@@ -567,7 +567,7 @@
   - 500
 - image_path: rendered_image_63.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.0
   translation:
@@ -576,7 +576,7 @@
   - 600
 - image_path: rendered_image_64.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.1
   translation:
@@ -585,7 +585,7 @@
   - 600
 - image_path: rendered_image_65.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.2
   translation:
@@ -594,7 +594,7 @@
   - 600
 - image_path: rendered_image_66.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.30000000000000004
   translation:
@@ -603,7 +603,7 @@
   - 600
 - image_path: rendered_image_67.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.4
   translation:
@@ -612,7 +612,7 @@
   - 600
 - image_path: rendered_image_68.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.5
   translation:
@@ -621,7 +621,7 @@
   - 600
 - image_path: rendered_image_69.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.6000000000000001
   translation:
@@ -630,7 +630,7 @@
   - 600
 - image_path: rendered_image_70.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.7000000000000001
   translation:
@@ -639,7 +639,7 @@
   - 600
 - image_path: rendered_image_71.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.8
   translation:
@@ -648,7 +648,7 @@
   - 600
 - image_path: rendered_image_72.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.9
   translation:
@@ -657,7 +657,7 @@
   - 600
 - image_path: rendered_image_73.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.0
   translation:
@@ -666,7 +666,7 @@
   - 600
 - image_path: rendered_image_74.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.1
   translation:
@@ -675,7 +675,7 @@
   - 600
 - image_path: rendered_image_75.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.2000000000000002
   translation:
@@ -684,7 +684,7 @@
   - 600
 - image_path: rendered_image_76.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.3
   translation:
@@ -693,7 +693,7 @@
   - 600
 - image_path: rendered_image_77.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.4000000000000001
   translation:
@@ -702,7 +702,7 @@
   - 600
 - image_path: rendered_image_78.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.5
   translation:
@@ -711,7 +711,7 @@
   - 600
 - image_path: rendered_image_79.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.6
   translation:
@@ -720,7 +720,7 @@
   - 600
 - image_path: rendered_image_80.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.7000000000000002
   translation:
@@ -729,7 +729,7 @@
   - 600
 - image_path: rendered_image_81.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.8
   translation:
@@ -738,7 +738,7 @@
   - 600
 - image_path: rendered_image_82.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.9000000000000001
   translation:
@@ -747,7 +747,7 @@
   - 600
 - image_path: rendered_image_83.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.0
   translation:
@@ -756,7 +756,7 @@
   - 600
 - image_path: rendered_image_84.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.1
   translation:
@@ -765,7 +765,7 @@
   - 600
 - image_path: rendered_image_85.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.2
   translation:
@@ -774,7 +774,7 @@
   - 600
 - image_path: rendered_image_86.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.3000000000000003
   translation:
@@ -783,7 +783,7 @@
   - 600
 - image_path: rendered_image_87.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.4000000000000004
   translation:
@@ -792,7 +792,7 @@
   - 600
 - image_path: rendered_image_88.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.5
   translation:
@@ -801,7 +801,7 @@
   - 600
 - image_path: rendered_image_89.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.6
   translation:
@@ -810,7 +810,7 @@
   - 600
 - image_path: rendered_image_90.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.7
   translation:
@@ -819,7 +819,7 @@
   - 600
 - image_path: rendered_image_91.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.8000000000000003
   translation:
@@ -828,7 +828,7 @@
   - 600
 - image_path: rendered_image_92.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.9000000000000004
   translation:
@@ -837,7 +837,7 @@
   - 600
 - image_path: rendered_image_93.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.0
   translation:
@@ -846,7 +846,7 @@
   - 600
 - image_path: rendered_image_94.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.1
   translation:
@@ -855,7 +855,7 @@
   - 600
 - image_path: rendered_image_95.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.2
   translation:
@@ -864,7 +864,7 @@
   - 600
 - image_path: rendered_image_96.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.3000000000000003
   translation:
@@ -873,7 +873,7 @@
   - 600
 - image_path: rendered_image_97.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.4000000000000004
   translation:
@@ -882,7 +882,7 @@
   - 600
 - image_path: rendered_image_98.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.5
   translation:
@@ -891,7 +891,7 @@
   - 600
 - image_path: rendered_image_99.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.6
   translation:
@@ -900,7 +900,7 @@
   - 600
 - image_path: rendered_image_100.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.7
   translation:
@@ -909,7 +909,7 @@
   - 600
 - image_path: rendered_image_101.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.8000000000000003
   translation:
@@ -918,7 +918,7 @@
   - 600
 - image_path: rendered_image_102.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.9000000000000004
   translation:
@@ -927,7 +927,7 @@
   - 600
 - image_path: rendered_image_103.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.0
   translation:
@@ -936,7 +936,7 @@
   - 600
 - image_path: rendered_image_104.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.1000000000000005
   translation:
@@ -945,7 +945,7 @@
   - 600
 - image_path: rendered_image_105.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.2
   translation:
@@ -954,7 +954,7 @@
   - 600
 - image_path: rendered_image_106.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.3
   translation:
@@ -963,7 +963,7 @@
   - 600
 - image_path: rendered_image_107.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.4
   translation:
@@ -972,7 +972,7 @@
   - 600
 - image_path: rendered_image_108.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.5
   translation:
@@ -981,7 +981,7 @@
   - 600
 - image_path: rendered_image_109.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.6000000000000005
   translation:
@@ -990,7 +990,7 @@
   - 600
 - image_path: rendered_image_110.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.7
   translation:
@@ -999,7 +999,7 @@
   - 600
 - image_path: rendered_image_111.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.800000000000001
   translation:
@@ -1008,7 +1008,7 @@
   - 600
 - image_path: rendered_image_112.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.9
   translation:
@@ -1017,7 +1017,7 @@
   - 600
 - image_path: rendered_image_113.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.0
   translation:
@@ -1026,7 +1026,7 @@
   - 600
 - image_path: rendered_image_114.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.1000000000000005
   translation:
@@ -1035,7 +1035,7 @@
   - 600
 - image_path: rendered_image_115.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.2
   translation:
@@ -1044,7 +1044,7 @@
   - 600
 - image_path: rendered_image_116.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.300000000000001
   translation:
@@ -1053,7 +1053,7 @@
   - 600
 - image_path: rendered_image_117.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.4
   translation:
@@ -1062,7 +1062,7 @@
   - 600
 - image_path: rendered_image_118.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.5
   translation:
@@ -1071,7 +1071,7 @@
   - 600
 - image_path: rendered_image_119.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.6000000000000005
   translation:
@@ -1080,7 +1080,7 @@
   - 600
 - image_path: rendered_image_120.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.7
   translation:
@@ -1089,7 +1089,7 @@
   - 600
 - image_path: rendered_image_121.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.800000000000001
   translation:
@@ -1098,7 +1098,7 @@
   - 600
 - image_path: rendered_image_122.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.9
   translation:
@@ -1107,7 +1107,7 @@
   - 600
 - image_path: rendered_image_123.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.0
   translation:
@@ -1116,7 +1116,7 @@
   - 600
 - image_path: rendered_image_124.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.1000000000000005
   translation:
@@ -1125,7 +1125,7 @@
   - 600
 - image_path: rendered_image_125.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.2
   translation:
@@ -1134,7 +1134,7 @@
   - 600
 - image_path: rendered_image_126.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.0
   translation:
@@ -1143,7 +1143,7 @@
   - 700
 - image_path: rendered_image_127.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.1
   translation:
@@ -1152,7 +1152,7 @@
   - 700
 - image_path: rendered_image_128.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.2
   translation:
@@ -1161,7 +1161,7 @@
   - 700
 - image_path: rendered_image_129.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.30000000000000004
   translation:
@@ -1170,7 +1170,7 @@
   - 700
 - image_path: rendered_image_130.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.4
   translation:
@@ -1179,7 +1179,7 @@
   - 700
 - image_path: rendered_image_131.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.5
   translation:
@@ -1188,7 +1188,7 @@
   - 700
 - image_path: rendered_image_132.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.6000000000000001
   translation:
@@ -1197,7 +1197,7 @@
   - 700
 - image_path: rendered_image_133.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.7000000000000001
   translation:
@@ -1206,7 +1206,7 @@
   - 700
 - image_path: rendered_image_134.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.8
   translation:
@@ -1215,7 +1215,7 @@
   - 700
 - image_path: rendered_image_135.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.9
   translation:
@@ -1224,7 +1224,7 @@
   - 700
 - image_path: rendered_image_136.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.0
   translation:
@@ -1233,7 +1233,7 @@
   - 700
 - image_path: rendered_image_137.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.1
   translation:
@@ -1242,7 +1242,7 @@
   - 700
 - image_path: rendered_image_138.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.2000000000000002
   translation:
@@ -1251,7 +1251,7 @@
   - 700
 - image_path: rendered_image_139.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.3
   translation:
@@ -1260,7 +1260,7 @@
   - 700
 - image_path: rendered_image_140.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.4000000000000001
   translation:
@@ -1269,7 +1269,7 @@
   - 700
 - image_path: rendered_image_141.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.5
   translation:
@@ -1278,7 +1278,7 @@
   - 700
 - image_path: rendered_image_142.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.6
   translation:
@@ -1287,7 +1287,7 @@
   - 700
 - image_path: rendered_image_143.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.7000000000000002
   translation:
@@ -1296,7 +1296,7 @@
   - 700
 - image_path: rendered_image_144.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.8
   translation:
@@ -1305,7 +1305,7 @@
   - 700
 - image_path: rendered_image_145.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.9000000000000001
   translation:
@@ -1314,7 +1314,7 @@
   - 700
 - image_path: rendered_image_146.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.0
   translation:
@@ -1323,7 +1323,7 @@
   - 700
 - image_path: rendered_image_147.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.1
   translation:
@@ -1332,7 +1332,7 @@
   - 700
 - image_path: rendered_image_148.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.2
   translation:
@@ -1341,7 +1341,7 @@
   - 700
 - image_path: rendered_image_149.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.3000000000000003
   translation:
@@ -1350,7 +1350,7 @@
   - 700
 - image_path: rendered_image_150.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.4000000000000004
   translation:
@@ -1359,7 +1359,7 @@
   - 700
 - image_path: rendered_image_151.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.5
   translation:
@@ -1368,7 +1368,7 @@
   - 700
 - image_path: rendered_image_152.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.6
   translation:
@@ -1377,7 +1377,7 @@
   - 700
 - image_path: rendered_image_153.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.7
   translation:
@@ -1386,7 +1386,7 @@
   - 700
 - image_path: rendered_image_154.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.8000000000000003
   translation:
@@ -1395,7 +1395,7 @@
   - 700
 - image_path: rendered_image_155.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.9000000000000004
   translation:
@@ -1404,7 +1404,7 @@
   - 700
 - image_path: rendered_image_156.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.0
   translation:
@@ -1413,7 +1413,7 @@
   - 700
 - image_path: rendered_image_157.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.1
   translation:
@@ -1422,7 +1422,7 @@
   - 700
 - image_path: rendered_image_158.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.2
   translation:
@@ -1431,7 +1431,7 @@
   - 700
 - image_path: rendered_image_159.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.3000000000000003
   translation:
@@ -1440,7 +1440,7 @@
   - 700
 - image_path: rendered_image_160.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.4000000000000004
   translation:
@@ -1449,7 +1449,7 @@
   - 700
 - image_path: rendered_image_161.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.5
   translation:
@@ -1458,7 +1458,7 @@
   - 700
 - image_path: rendered_image_162.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.6
   translation:
@@ -1467,7 +1467,7 @@
   - 700
 - image_path: rendered_image_163.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.7
   translation:
@@ -1476,7 +1476,7 @@
   - 700
 - image_path: rendered_image_164.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.8000000000000003
   translation:
@@ -1485,7 +1485,7 @@
   - 700
 - image_path: rendered_image_165.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.9000000000000004
   translation:
@@ -1494,7 +1494,7 @@
   - 700
 - image_path: rendered_image_166.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.0
   translation:
@@ -1503,7 +1503,7 @@
   - 700
 - image_path: rendered_image_167.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.1000000000000005
   translation:
@@ -1512,7 +1512,7 @@
   - 700
 - image_path: rendered_image_168.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.2
   translation:
@@ -1521,7 +1521,7 @@
   - 700
 - image_path: rendered_image_169.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.3
   translation:
@@ -1530,7 +1530,7 @@
   - 700
 - image_path: rendered_image_170.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.4
   translation:
@@ -1539,7 +1539,7 @@
   - 700
 - image_path: rendered_image_171.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.5
   translation:
@@ -1548,7 +1548,7 @@
   - 700
 - image_path: rendered_image_172.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.6000000000000005
   translation:
@@ -1557,7 +1557,7 @@
   - 700
 - image_path: rendered_image_173.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.7
   translation:
@@ -1566,7 +1566,7 @@
   - 700
 - image_path: rendered_image_174.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.800000000000001
   translation:
@@ -1575,7 +1575,7 @@
   - 700
 - image_path: rendered_image_175.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.9
   translation:
@@ -1584,7 +1584,7 @@
   - 700
 - image_path: rendered_image_176.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.0
   translation:
@@ -1593,7 +1593,7 @@
   - 700
 - image_path: rendered_image_177.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.1000000000000005
   translation:
@@ -1602,7 +1602,7 @@
   - 700
 - image_path: rendered_image_178.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.2
   translation:
@@ -1611,7 +1611,7 @@
   - 700
 - image_path: rendered_image_179.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.300000000000001
   translation:
@@ -1620,7 +1620,7 @@
   - 700
 - image_path: rendered_image_180.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.4
   translation:
@@ -1629,7 +1629,7 @@
   - 700
 - image_path: rendered_image_181.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.5
   translation:
@@ -1638,7 +1638,7 @@
   - 700
 - image_path: rendered_image_182.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.6000000000000005
   translation:
@@ -1647,7 +1647,7 @@
   - 700
 - image_path: rendered_image_183.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.7
   translation:
@@ -1656,7 +1656,7 @@
   - 700
 - image_path: rendered_image_184.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.800000000000001
   translation:
@@ -1665,7 +1665,7 @@
   - 700
 - image_path: rendered_image_185.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.9
   translation:
@@ -1674,7 +1674,7 @@
   - 700
 - image_path: rendered_image_186.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.0
   translation:
@@ -1683,7 +1683,7 @@
   - 700
 - image_path: rendered_image_187.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.1000000000000005
   translation:
@@ -1692,7 +1692,7 @@
   - 700
 - image_path: rendered_image_188.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.2
   translation:
@@ -1701,7 +1701,7 @@
   - 700
 - image_path: rendered_image_189.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.0
   translation:
@@ -1710,7 +1710,7 @@
   - 800
 - image_path: rendered_image_190.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.1
   translation:
@@ -1719,7 +1719,7 @@
   - 800
 - image_path: rendered_image_191.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.2
   translation:
@@ -1728,7 +1728,7 @@
   - 800
 - image_path: rendered_image_192.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.30000000000000004
   translation:
@@ -1737,7 +1737,7 @@
   - 800
 - image_path: rendered_image_193.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.4
   translation:
@@ -1746,7 +1746,7 @@
   - 800
 - image_path: rendered_image_194.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.5
   translation:
@@ -1755,7 +1755,7 @@
   - 800
 - image_path: rendered_image_195.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.6000000000000001
   translation:
@@ -1764,7 +1764,7 @@
   - 800
 - image_path: rendered_image_196.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.7000000000000001
   translation:
@@ -1773,7 +1773,7 @@
   - 800
 - image_path: rendered_image_197.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.8
   translation:
@@ -1782,7 +1782,7 @@
   - 800
 - image_path: rendered_image_198.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.9
   translation:
@@ -1791,7 +1791,7 @@
   - 800
 - image_path: rendered_image_199.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.0
   translation:
@@ -1800,7 +1800,7 @@
   - 800
 - image_path: rendered_image_200.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.1
   translation:
@@ -1809,7 +1809,7 @@
   - 800
 - image_path: rendered_image_201.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.2000000000000002
   translation:
@@ -1818,7 +1818,7 @@
   - 800
 - image_path: rendered_image_202.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.3
   translation:
@@ -1827,7 +1827,7 @@
   - 800
 - image_path: rendered_image_203.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.4000000000000001
   translation:
@@ -1836,7 +1836,7 @@
   - 800
 - image_path: rendered_image_204.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.5
   translation:
@@ -1845,7 +1845,7 @@
   - 800
 - image_path: rendered_image_205.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.6
   translation:
@@ -1854,7 +1854,7 @@
   - 800
 - image_path: rendered_image_206.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.7000000000000002
   translation:
@@ -1863,7 +1863,7 @@
   - 800
 - image_path: rendered_image_207.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.8
   translation:
@@ -1872,7 +1872,7 @@
   - 800
 - image_path: rendered_image_208.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.9000000000000001
   translation:
@@ -1881,7 +1881,7 @@
   - 800
 - image_path: rendered_image_209.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.0
   translation:
@@ -1890,7 +1890,7 @@
   - 800
 - image_path: rendered_image_210.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.1
   translation:
@@ -1899,7 +1899,7 @@
   - 800
 - image_path: rendered_image_211.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.2
   translation:
@@ -1908,7 +1908,7 @@
   - 800
 - image_path: rendered_image_212.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.3000000000000003
   translation:
@@ -1917,7 +1917,7 @@
   - 800
 - image_path: rendered_image_213.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.4000000000000004
   translation:
@@ -1926,7 +1926,7 @@
   - 800
 - image_path: rendered_image_214.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.5
   translation:
@@ -1935,7 +1935,7 @@
   - 800
 - image_path: rendered_image_215.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.6
   translation:
@@ -1944,7 +1944,7 @@
   - 800
 - image_path: rendered_image_216.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.7
   translation:
@@ -1953,7 +1953,7 @@
   - 800
 - image_path: rendered_image_217.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.8000000000000003
   translation:
@@ -1962,7 +1962,7 @@
   - 800
 - image_path: rendered_image_218.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.9000000000000004
   translation:
@@ -1971,7 +1971,7 @@
   - 800
 - image_path: rendered_image_219.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.0
   translation:
@@ -1980,7 +1980,7 @@
   - 800
 - image_path: rendered_image_220.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.1
   translation:
@@ -1989,7 +1989,7 @@
   - 800
 - image_path: rendered_image_221.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.2
   translation:
@@ -1998,7 +1998,7 @@
   - 800
 - image_path: rendered_image_222.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.3000000000000003
   translation:
@@ -2007,7 +2007,7 @@
   - 800
 - image_path: rendered_image_223.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.4000000000000004
   translation:
@@ -2016,7 +2016,7 @@
   - 800
 - image_path: rendered_image_224.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.5
   translation:
@@ -2025,7 +2025,7 @@
   - 800
 - image_path: rendered_image_225.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.6
   translation:
@@ -2034,7 +2034,7 @@
   - 800
 - image_path: rendered_image_226.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.7
   translation:
@@ -2043,7 +2043,7 @@
   - 800
 - image_path: rendered_image_227.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.8000000000000003
   translation:
@@ -2052,7 +2052,7 @@
   - 800
 - image_path: rendered_image_228.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.9000000000000004
   translation:
@@ -2061,7 +2061,7 @@
   - 800
 - image_path: rendered_image_229.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.0
   translation:
@@ -2070,7 +2070,7 @@
   - 800
 - image_path: rendered_image_230.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.1000000000000005
   translation:
@@ -2079,7 +2079,7 @@
   - 800
 - image_path: rendered_image_231.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.2
   translation:
@@ -2088,7 +2088,7 @@
   - 800
 - image_path: rendered_image_232.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.3
   translation:
@@ -2097,7 +2097,7 @@
   - 800
 - image_path: rendered_image_233.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.4
   translation:
@@ -2106,7 +2106,7 @@
   - 800
 - image_path: rendered_image_234.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.5
   translation:
@@ -2115,7 +2115,7 @@
   - 800
 - image_path: rendered_image_235.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.6000000000000005
   translation:
@@ -2124,7 +2124,7 @@
   - 800
 - image_path: rendered_image_236.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.7
   translation:
@@ -2133,7 +2133,7 @@
   - 800
 - image_path: rendered_image_237.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.800000000000001
   translation:
@@ -2142,7 +2142,7 @@
   - 800
 - image_path: rendered_image_238.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.9
   translation:
@@ -2151,7 +2151,7 @@
   - 800
 - image_path: rendered_image_239.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.0
   translation:
@@ -2160,7 +2160,7 @@
   - 800
 - image_path: rendered_image_240.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.1000000000000005
   translation:
@@ -2169,7 +2169,7 @@
   - 800
 - image_path: rendered_image_241.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.2
   translation:
@@ -2178,7 +2178,7 @@
   - 800
 - image_path: rendered_image_242.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.300000000000001
   translation:
@@ -2187,7 +2187,7 @@
   - 800
 - image_path: rendered_image_243.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.4
   translation:
@@ -2196,7 +2196,7 @@
   - 800
 - image_path: rendered_image_244.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.5
   translation:
@@ -2205,7 +2205,7 @@
   - 800
 - image_path: rendered_image_245.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.6000000000000005
   translation:
@@ -2214,7 +2214,7 @@
   - 800
 - image_path: rendered_image_246.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.7
   translation:
@@ -2223,7 +2223,7 @@
   - 800
 - image_path: rendered_image_247.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.800000000000001
   translation:
@@ -2232,7 +2232,7 @@
   - 800
 - image_path: rendered_image_248.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.9
   translation:
@@ -2241,7 +2241,7 @@
   - 800
 - image_path: rendered_image_249.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.0
   translation:
@@ -2250,7 +2250,7 @@
   - 800
 - image_path: rendered_image_250.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.1000000000000005
   translation:
@@ -2259,7 +2259,7 @@
   - 800
 - image_path: rendered_image_251.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.2
   translation:
@@ -2268,7 +2268,7 @@
   - 800
 - image_path: rendered_image_252.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.0
   translation:
@@ -2277,7 +2277,7 @@
   - 900
 - image_path: rendered_image_253.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.1
   translation:
@@ -2286,7 +2286,7 @@
   - 900
 - image_path: rendered_image_254.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.2
   translation:
@@ -2295,7 +2295,7 @@
   - 900
 - image_path: rendered_image_255.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.30000000000000004
   translation:
@@ -2304,7 +2304,7 @@
   - 900
 - image_path: rendered_image_256.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.4
   translation:
@@ -2313,7 +2313,7 @@
   - 900
 - image_path: rendered_image_257.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.5
   translation:
@@ -2322,7 +2322,7 @@
   - 900
 - image_path: rendered_image_258.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.6000000000000001
   translation:
@@ -2331,7 +2331,7 @@
   - 900
 - image_path: rendered_image_259.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.7000000000000001
   translation:
@@ -2340,7 +2340,7 @@
   - 900
 - image_path: rendered_image_260.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.8
   translation:
@@ -2349,7 +2349,7 @@
   - 900
 - image_path: rendered_image_261.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 0.9
   translation:
@@ -2358,7 +2358,7 @@
   - 900
 - image_path: rendered_image_262.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.0
   translation:
@@ -2367,7 +2367,7 @@
   - 900
 - image_path: rendered_image_263.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.1
   translation:
@@ -2376,7 +2376,7 @@
   - 900
 - image_path: rendered_image_264.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.2000000000000002
   translation:
@@ -2385,7 +2385,7 @@
   - 900
 - image_path: rendered_image_265.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.3
   translation:
@@ -2394,7 +2394,7 @@
   - 900
 - image_path: rendered_image_266.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.4000000000000001
   translation:
@@ -2403,7 +2403,7 @@
   - 900
 - image_path: rendered_image_267.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.5
   translation:
@@ -2412,7 +2412,7 @@
   - 900
 - image_path: rendered_image_268.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.6
   translation:
@@ -2421,7 +2421,7 @@
   - 900
 - image_path: rendered_image_269.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.7000000000000002
   translation:
@@ -2430,7 +2430,7 @@
   - 900
 - image_path: rendered_image_270.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.8
   translation:
@@ -2439,7 +2439,7 @@
   - 900
 - image_path: rendered_image_271.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 1.9000000000000001
   translation:
@@ -2448,7 +2448,7 @@
   - 900
 - image_path: rendered_image_272.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.0
   translation:
@@ -2457,7 +2457,7 @@
   - 900
 - image_path: rendered_image_273.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.1
   translation:
@@ -2466,7 +2466,7 @@
   - 900
 - image_path: rendered_image_274.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.2
   translation:
@@ -2475,7 +2475,7 @@
   - 900
 - image_path: rendered_image_275.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.3000000000000003
   translation:
@@ -2484,7 +2484,7 @@
   - 900
 - image_path: rendered_image_276.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.4000000000000004
   translation:
@@ -2493,7 +2493,7 @@
   - 900
 - image_path: rendered_image_277.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.5
   translation:
@@ -2502,7 +2502,7 @@
   - 900
 - image_path: rendered_image_278.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.6
   translation:
@@ -2511,7 +2511,7 @@
   - 900
 - image_path: rendered_image_279.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.7
   translation:
@@ -2520,7 +2520,7 @@
   - 900
 - image_path: rendered_image_280.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.8000000000000003
   translation:
@@ -2529,7 +2529,7 @@
   - 900
 - image_path: rendered_image_281.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 2.9000000000000004
   translation:
@@ -2538,7 +2538,7 @@
   - 900
 - image_path: rendered_image_282.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.0
   translation:
@@ -2547,7 +2547,7 @@
   - 900
 - image_path: rendered_image_283.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.1
   translation:
@@ -2556,7 +2556,7 @@
   - 900
 - image_path: rendered_image_284.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.2
   translation:
@@ -2565,7 +2565,7 @@
   - 900
 - image_path: rendered_image_285.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.3000000000000003
   translation:
@@ -2574,7 +2574,7 @@
   - 900
 - image_path: rendered_image_286.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.4000000000000004
   translation:
@@ -2583,7 +2583,7 @@
   - 900
 - image_path: rendered_image_287.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.5
   translation:
@@ -2592,7 +2592,7 @@
   - 900
 - image_path: rendered_image_288.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.6
   translation:
@@ -2601,7 +2601,7 @@
   - 900
 - image_path: rendered_image_289.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.7
   translation:
@@ -2610,7 +2610,7 @@
   - 900
 - image_path: rendered_image_290.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.8000000000000003
   translation:
@@ -2619,7 +2619,7 @@
   - 900
 - image_path: rendered_image_291.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 3.9000000000000004
   translation:
@@ -2628,7 +2628,7 @@
   - 900
 - image_path: rendered_image_292.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.0
   translation:
@@ -2637,7 +2637,7 @@
   - 900
 - image_path: rendered_image_293.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.1000000000000005
   translation:
@@ -2646,7 +2646,7 @@
   - 900
 - image_path: rendered_image_294.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.2
   translation:
@@ -2655,7 +2655,7 @@
   - 900
 - image_path: rendered_image_295.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.3
   translation:
@@ -2664,7 +2664,7 @@
   - 900
 - image_path: rendered_image_296.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.4
   translation:
@@ -2673,7 +2673,7 @@
   - 900
 - image_path: rendered_image_297.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.5
   translation:
@@ -2682,7 +2682,7 @@
   - 900
 - image_path: rendered_image_298.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.6000000000000005
   translation:
@@ -2691,7 +2691,7 @@
   - 900
 - image_path: rendered_image_299.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.7
   translation:
@@ -2700,7 +2700,7 @@
   - 900
 - image_path: rendered_image_300.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.800000000000001
   translation:
@@ -2709,7 +2709,7 @@
   - 900
 - image_path: rendered_image_301.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 4.9
   translation:
@@ -2718,7 +2718,7 @@
   - 900
 - image_path: rendered_image_302.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.0
   translation:
@@ -2727,7 +2727,7 @@
   - 900
 - image_path: rendered_image_303.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.1000000000000005
   translation:
@@ -2736,7 +2736,7 @@
   - 900
 - image_path: rendered_image_304.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.2
   translation:
@@ -2745,7 +2745,7 @@
   - 900
 - image_path: rendered_image_305.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.300000000000001
   translation:
@@ -2754,7 +2754,7 @@
   - 900
 - image_path: rendered_image_306.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.4
   translation:
@@ -2763,7 +2763,7 @@
   - 900
 - image_path: rendered_image_307.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.5
   translation:
@@ -2772,7 +2772,7 @@
   - 900
 - image_path: rendered_image_308.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.6000000000000005
   translation:
@@ -2781,7 +2781,7 @@
   - 900
 - image_path: rendered_image_309.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.7
   translation:
@@ -2790,7 +2790,7 @@
   - 900
 - image_path: rendered_image_310.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.800000000000001
   translation:
@@ -2799,7 +2799,7 @@
   - 900
 - image_path: rendered_image_311.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 5.9
   translation:
@@ -2808,7 +2808,7 @@
   - 900
 - image_path: rendered_image_312.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.0
   translation:
@@ -2817,7 +2817,7 @@
   - 900
 - image_path: rendered_image_313.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.1000000000000005
   translation:
@@ -2826,7 +2826,7 @@
   - 900
 - image_path: rendered_image_314.png
   rotation:
-  - 3.141592653589793
+  - 0
   - 0
   - 6.2
   translation:

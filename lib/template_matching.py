@@ -4,9 +4,11 @@ import cv2
 import yaml
 import numpy as np
 import os
+import sys
 from typing import List, Tuple
 from copy import deepcopy
-from utils import load_camera_params
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from lib.utils import load_camera_params
 
 X_STEP = 20
 Y_STEP = 20
@@ -102,13 +104,15 @@ def find_best_match(edges: np.ndarray, template_folder: str, template_yaml:str, 
         y_step (int): Step size for y direction (img height).
 
     Returns:
-        best_loc (tuple): The (x, y) coordinates of the top-left corner of the best match.
-        best_score (float): The score of the best match.
+        tvec (numpy.ndarray): The translation vector.
+        rotation (numpy.ndarray): The rotation vector.
+        image_name (str): The name of the best matching template image.
     """
     # load the rendered templates
     # open the yaml file
     with open(template_yaml, 'r') as file:
         metadata = yaml.safe_load(file)
+    print(f"Loaded {len(metadata)} templates from {template_yaml}")
     max_score = -np.inf
     location = None
     best_translation = None
@@ -139,15 +143,22 @@ def find_best_match(edges: np.ndarray, template_folder: str, template_yaml:str, 
             best_translation = translation
             best_rotation = rotation
             best_image_name = image_name
+    print("best location: ", location)
+    print("best score: ", max_score)
+    print("best translation: ", best_translation)
+    print("best rotation: ", best_rotation)
+    print("best image name: ", best_image_name)
     # the translation is in the form of [0,0,z]
     # we need to convert the translation using the image pixel coordinates
     template_img = cv2.imread(os.path.join(template_folder, best_image_name), cv2.IMREAD_GRAYSCALE)
     template_img = (template_img*255).astype(np.uint8)
     # get the size of the template image
     temp_h, temp_w = template_img.shape[:2]
+    print(min_x, min_y)
+    location = (location[0] + min_y, location[1] + min_x)
     # get the center of the template image
     temp_center = (temp_w // 2, temp_h // 2)
     # get the center of the location
     loc_center = (location[0] + temp_center[0], location[1] + temp_center[1])
     tvec = get_pose_estimation(loc_center, best_translation[2])
-    return tvec, best_rotation, best_image_name
+    return location, np.array(tvec), np.array(best_rotation), best_image_name

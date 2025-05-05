@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 from typing import Tuple, List
 
-LOWER_BACKGROUND_COLOR = [80, 0, 0]
+LOWER_BACKGROUND_COLOR = [20, 0, 0]
 UPPER_BACKGROUND_COLOR = [120, 255, 255]
 
 def get_mask(img: np.ndarray) -> np.ndarray:
@@ -17,7 +17,7 @@ def get_mask(img: np.ndarray) -> np.ndarray:
     # remove noise from the picture
     num_labels, labels, stats, centroids = cv2.connectedComponentsWithStats(mask, connectivity=8)
     sizes = stats[1:, -1]  # Get sizes of components, excluding the background
-    min_size = 100  # Minimum size of components to keep
+    min_size = 1000  # Minimum size of components to keep
 
     new_mask = np.zeros(mask.shape, dtype=np.uint8)
 
